@@ -1,0 +1,42 @@
+C:\Google Drive\Arthur\Commit Software\Source\Sistemas\Controle de Academia\ControleDeAcademia\ControleDeAcademia\bin\Release\ControleDeAcademia.exe.config
+C:\Google Drive\Arthur\Commit Software\Source\Sistemas\Controle de Academia\ControleDeAcademia\ControleDeAcademia\bin\Release\ControleDeAcademia.exe
+C:\Google Drive\Arthur\Commit Software\Source\Sistemas\Controle de Academia\ControleDeAcademia\ControleDeAcademia\bin\Release\ControleDeAcademia.pdb
+C:\Google Drive\Arthur\Commit Software\Source\Sistemas\Controle de Academia\ControleDeAcademia\ControleDeAcademia\bin\Release\MySql.Data.dll
+C:\Google Drive\Arthur\Commit Software\Source\Sistemas\Controle de Academia\ControleDeAcademia\ControleDeAcademia\bin\Release\NITGEN.SDK.NBioBSP.dll
+C:\Google Drive\Arthur\Commit Software\Source\Sistemas\Controle de Academia\ControleDeAcademia\ControleDeAcademia\obj\Release\ControleDeAcademia.CadastroAluno.resources
+C:\Google Drive\Arthur\Commit Software\Source\Sistemas\Controle de Academia\ControleDeAcademia\ControleDeAcademia\obj\Release\ControleDeAcademia.CadastroCeps.resources
+C:\Google Drive\Arthur\Commit Software\Source\Sistemas\Controle de Academia\ControleDeAcademia\ControleDeAcademia\obj\Release\ControleDeAcademia.CadastroDispositivos.resources
+C:\Google Drive\Arthur\Commit Software\Source\Sistemas\Controle de Academia\ControleDeAcademia\ControleDeAcademia\obj\Release\ControleDeAcademia.CadastroInstrutor.resources
+C:\Google Drive\Arthur\Commit Software\Source\Sistemas\Controle de Academia\ControleDeAcademia\ControleDeAcademia\obj\Release\ControleDeAcademia.CadastroUsuarios.resources
+C:\Google Drive\Arthur\Commit Software\Source\Sistemas\Controle de Academia\ControleDeAcademia\ControleDeAcademia\obj\Release\ControleDeAcademia.CommitMySqlSettings.resources
+C:\Google Drive\Arthur\Commit Software\Source\Sistemas\Controle de Academia\ControleDeAcademia\ControleDeAcademia\obj\Release\ControleDeAcademia.ConsultaDeAlunos.resources
+C:\Google Drive\Arthur\Commit Software\Source\Sistemas\Controle de Academia\ControleDeAcademia\ControleDeAcademia\obj\Release\ControleDeAcademia.ConsultaDeInstrutores.resources
+C:\Google Drive\Arthur\Commit Software\Source\Sistemas\Controle de Academia\ControleDeAcademia\ControleDeAcademia\obj\Release\ControleDeAcademia.loginScreen.resources
+C:\Google Drive\Arthur\Commit Software\Source\Sistemas\Controle de Academia\ControleDeAcademia\ControleDeAcademia\obj\Release\ControleDeAcademia.MainWindow.resources
+C:\Google Drive\Arthur\Commit Software\Source\Sistemas\Controle de Academia\ControleDeAcademia\ControleDeAcademia\obj\Release\ControleDeAcademia.Properties.Resources.resources
+C:\Google Drive\Arthur\Commit Software\Source\Sistemas\Controle de Academia\ControleDeAcademia\ControleDeAcademia\obj\Release\ControleDeAcademia.csproj.GenerateResource.Cache
+C:\Google Drive\Arthur\Commit Software\Source\Sistemas\Controle de Academia\ControleDeAcademia\ControleDeAcademia\obj\Release\ControleDeAcademia.exe
+C:\Google Drive\Arthur\Commit Software\Source\Sistemas\Controle de Academia\ControleDeAcademia\ControleDeAcademia\obj\Release\ControleDeAcademia.pdb
+C:\Google Drive\Arthur\Commit Software\Sistemas\Controle de Academia\Projeto\ControleDeAcademia\bin\Release\ControleDeAcademia.exe.config
+C:\Google Drive\Arthur\Commit Software\Sistemas\Controle de Academia\Projeto\ControleDeAcademia\obj\Release\ControleDeAcademia.exe
+C:\Google Drive\Arthur\Commit Software\Sistemas\Controle de Academia\Projeto\ControleDeAcademia\obj\Release\ControleDeAcademia.pdb
+D:\OneDrive\ALT Tecnologia\Sistemas\Controle de Academia\Projeto\ControleDeAcademia\bin\Release\ControleDeAcademia.exe.config
+D:\OneDrive\ALT Tecnologia\Sistemas\Controle de Academia\Projeto\ControleDeAcademia\obj\Release\ControleDeAcademia.exe
+D:\OneDrive\ALT Tecnologia\Sistemas\Controle de Academia\Projeto\ControleDeAcademia\obj\Release\ControleDeAcademia.pdb
+D:\OneDrive\ALT Tecnologia\Sistemas\Controle de Academia\Projeto\ControleDeAcademia\bin\Release\ControleDeAcademia.exe
+D:\OneDrive\ALT Tecnologia\Sistemas\Controle de Academia\Projeto\ControleDeAcademia\bin\Release\ControleDeAcademia.pdb
+D:\OneDrive\ALT Tecnologia\Sistemas\Controle de Academia\Projeto\ControleDeAcademia\bin\Release\MySql.Data.dll
+D:\OneDrive\ALT Tecnologia\Sistemas\Controle de Academia\Projeto\ControleDeAcademia\bin\Release\NITGEN.SDK.NBioBSP.dll
+D:\OneDrive\ALT Tecnologia\Sistemas\Controle de Academia\Projeto\ControleDeAcademia\obj\Release\ControleDeAcademia.csprojResolveAssemblyReference.cache
+D:\OneDrive\ALT Tecnologia\Sistemas\Controle de Academia\Projeto\ControleDeAcademia\obj\Release\ControleDeAcademia.CadastroAluno.resources
+D:\OneDrive\ALT Tecnologia\Sistemas\Controle de Academia\Projeto\ControleDeAcademia\obj\Release\ControleDeAcademia.CadastroCeps.resources
+D:\OneDrive\ALT Tecnologia\Sistemas\Controle de Academia\Projeto\ControleDeAcademia\obj\Release\ControleDeAcademia.CadastroDispositivos.resources
+D:\OneDrive\ALT Tecnologia\Sistemas\Controle de Academia\Projeto\ControleDeAcademia\obj\Release\ControleDeAcademia.CadastroInstrutor.resources
+D:\OneDrive\ALT Tecnologia\Sistemas\Controle de Academia\Projeto\ControleDeAcademia\obj\Release\ControleDeAcademia.CadastroUsuarios.resources
+D:\OneDrive\ALT Tecnologia\Sistemas\Controle de Academia\Projeto\ControleDeAcademia\obj\Release\ControleDeAcademia.CommitMySqlSettings.resources
+D:\OneDrive\ALT Tecnologia\Sistemas\Controle de Academia\Projeto\ControleDeAcademia\obj\Release\ControleDeAcademia.ConsultaDeAlunos.resources
+D:\OneDrive\ALT Tecnologia\Sistemas\Controle de Academia\Projeto\ControleDeAcademia\obj\Release\ControleDeAcademia.ConsultaDeInstrutores.resources
+D:\OneDrive\ALT Tecnologia\Sistemas\Controle de Academia\Projeto\ControleDeAcademia\obj\Release\ControleDeAcademia.loginScreen.resources
+D:\OneDrive\ALT Tecnologia\Sistemas\Controle de Academia\Projeto\ControleDeAcademia\obj\Release\ControleDeAcademia.MainWindow.resources
+D:\OneDrive\ALT Tecnologia\Sistemas\Controle de Academia\Projeto\ControleDeAcademia\obj\Release\ControleDeAcademia.Properties.Resources.resources
+D:\OneDrive\ALT Tecnologia\Sistemas\Controle de Academia\Projeto\ControleDeAcademia\obj\Release\ControleDeAcademia.csproj.GenerateResource.Cache
